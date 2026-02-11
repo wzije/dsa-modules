@@ -121,7 +121,6 @@ Mata kuliah Struktur Data dan Algoritma membekali mahasiswa dengan kemampuan mem
 | 13    | Mahasiswa **mengembangkan** mini project (SubCPMK-5)                                                                                  | Mini Project                | Project based learning    | LMS               | 180           | Aplikasi berjalan                 | Proyek           | 15        |
 | 14    | Mahasiswa **mempresentasikan** hasil mini project (SubCPMK-5)                                                                         | Presentasi & Evaluasi       | Presentasi                | LMS               | 180           | Kualitas sistem & presentasi      | UAS              | 15        |
 
-
 ---
 
 ### K. Rubrik Penilaian Singkat
@@ -149,4 +148,3 @@ Mata kuliah Struktur Data dan Algoritma membekali mahasiswa dengan kemampuan mem
 3. Miller & Ranum. _Problem Solving with Algorithms and Data Structures Using Python_
 
 ---
-
