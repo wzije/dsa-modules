@@ -2,185 +2,192 @@
 
 ![Roadmap belajar](./assets/roadmap.png)
 
-## Struktur Data & Algoritma (Python)
+### 📄 Informasi
 
-Roadmap ini menggambarkan alur pembelajaran Struktur Data dan Algoritma yang disusun **bertahap dari dasar hingga lanjutan**, dengan fokus pada:
-
-- Pemahaman konsep
-- Implementasi menggunakan Python
-- Penguatan problem solving
-
-Mahasiswa tidak langsung dihadapkan pada teori abstrak, tetapi terlebih dahulu memahami cara kerja kode dan struktur data, kemudian baru dikenalkan analisis kompleksitas (Big-O).
+* 📘 **RPS Mata Kuliah**: [Lihat RPS](./materials/rps.md)
 
 ---
 
-## 1. Python Dasar
+Roadmap ini menggambarkan alur pembelajaran **Struktur Data dan Algoritma (DSA)** yang disusun **bertahap dari dasar hingga lanjutan**, dengan fokus pada:
+
+* Pemahaman konsep
+* Implementasi menggunakan Python
+* Penguatan kemampuan problem solving
+
+Mahasiswa tidak langsung dihadapkan pada teori abstrak, tetapi terlebih dahulu memahami cara kerja kode dan struktur data, kemudian baru dikenalkan analisis kompleksitas algoritma (Big-O).
+
+---
+
+### 1. Python Dasar
 
 Tahap awal berfokus pada penguasaan sintaks dasar Python sebagai alat utama pembelajaran.
 
-Materi utama:
+**Materi utama:**
 
-- Variabel dan tipe data
-- Percabangan dan perulangan
-- Fungsi
-- Pengenalan rekursi
+* Variabel dan tipe data
+* Percabangan dan perulangan
+* Fungsi
+* Pengenalan rekursi
 
-Tujuan:
+**Tujuan:**
 Mahasiswa mampu menulis program Python sederhana dan memahami alur eksekusi program.
 
 ---
 
-## 2. Array & String
+### 2. Array & String
 
 Mahasiswa mempelajari struktur data paling dasar yang sering digunakan.
 
-Materi utama:
+**Materi utama:**
 
-- List (array) dan operasi dasarnya
-- String manipulation
+* List (array) dan operasi dasar
+* Manipulasi string
 
-Contoh kasus:
+**Contoh kasus:**
 
-- Two Sum
-- Palindrome
+* Two Sum
+* Palindrome
 
-Tujuan:
+**Tujuan:**
 Mahasiswa mampu memproses data berurutan dan memahami operasi dasar koleksi data.
 
 ---
 
-## 3. Stack & Queue
+### 3. Stack & Queue
 
 Mahasiswa mempelajari struktur data dengan prinsip:
 
-- Stack → LIFO (Last In First Out)
-- Queue → FIFO (First In First Out)
+* Stack → LIFO (*Last In First Out*)
+* Queue → FIFO (*First In First Out*)
 
-Contoh kasus:
+**Contoh kasus:**
 
-- Valid Parentheses
-- Implementasi stack dan queue dengan list
+* Valid Parentheses
+* Implementasi stack dan queue dengan list
 
-Tujuan:
+**Tujuan:**
 Mahasiswa memahami penggunaan struktur data berbasis urutan khusus.
 
 ---
 
-## 4. Hash Table
+### 4. Hash Table
 
-Menggunakan dictionary dan set di Python.
+Menggunakan `dictionary` dan `set` di Python.
 
-Materi utama:
+**Materi utama:**
 
-- Konsep hashing
-- Penyimpanan key-value
+* Konsep hashing
+* Penyimpanan data berbasis key-value
 
-Contoh kasus:
+**Contoh kasus:**
 
-- Menghitung frekuensi
-- Group Anagram
+* Menghitung frekuensi data
+* Group Anagram
 
-Tujuan:
+**Tujuan:**
 Mahasiswa memahami cara mempercepat pencarian data menggunakan struktur data yang tepat.
 
 ---
 
-## 5. Analisis Big-O (Kompleksitas Algoritma)
+### 5. Analisis Big-O (Kompleksitas Algoritma)
 
 Setelah mahasiswa mengenal berbagai struktur data, barulah dikenalkan konsep efisiensi algoritma.
 
-Materi utama:
+**Materi utama:**
 
-- Time Complexity
-- Space Complexity
-- O(1), O(n), O(n²), O(log n)
+* Time Complexity
+* Space Complexity
+* O(1), O(n), O(n²), O(log n)
 
-Tujuan:
+**Tujuan:**
 Mahasiswa mampu membandingkan dua solusi dan menentukan mana yang lebih efisien.
 
 ---
 
-## 6. Linked List
+### 6. Linked List
 
 Mahasiswa mempelajari struktur data berbasis node dan pointer.
 
-Materi utama:
+**Materi utama:**
 
-- Singly Linked List
-- Operasi dasar
+* Singly Linked List
+* Operasi dasar linked list
 
-Contoh kasus:
+**Contoh kasus:**
 
-- Reverse Linked List
+* Reverse Linked List
 
-Tujuan:
-Mahasiswa memahami penyimpanan data dinamis dan traversal node.
-
----
-
-## 7. Tree & Binary Search Tree (BST)
-
-Materi utama:
-
-- Struktur tree
-- Traversal (preorder, inorder, postorder)
-- BST
-
-Contoh kasus:
-
-- Traversal tree
-- Validasi BST
-
-Tujuan:
-Mahasiswa mampu mengelola data hierarkis.
+**Tujuan:**
+Mahasiswa memahami penyimpanan data dinamis dan proses traversal node.
 
 ---
 
-## 8. Graph (BFS & DFS)
+### 7. Tree & Binary Search Tree (BST)
 
-Materi utama:
+**Materi utama:**
 
-- Representasi graph
-- Breadth First Search
-- Depth First Search
+* Konsep tree
+* Traversal (preorder, inorder, postorder)
+* Binary Search Tree (BST)
 
-Contoh kasus:
+**Contoh kasus:**
 
-- Shortest path
-- Number of islands
+* Traversal tree
+* Validasi BST
 
-Tujuan:
+**Tujuan:**
+Mahasiswa mampu mengelola data berbentuk hierarki.
+
+---
+
+### 8. Graph (BFS & DFS)
+
+**Materi utama:**
+
+* Representasi graph
+* Breadth First Search (BFS)
+* Depth First Search (DFS)
+
+**Contoh kasus:**
+
+* Shortest path
+* Number of islands
+
+**Tujuan:**
 Mahasiswa memahami relasi kompleks antar data.
 
 ---
 
-## 9. Algoritma Lanjutan
+### 9. Algoritma Lanjutan
 
-Materi utama:
+**Materi utama:**
 
-- Dynamic Programming
-- Backtracking
+* Dynamic Programming
+* Backtracking
 
-Tujuan:
+**Tujuan:**
 Mahasiswa mampu menyelesaikan permasalahan kompleks dengan pendekatan sistematis.
 
 ---
 
-## Mini Project & Review Soal
+### 🚀 Mini Project & Review Soal
 
-Di sepanjang semester, mahasiswa akan:
+Sepanjang semester, mahasiswa akan:
 
-- Mengerjakan latihan intensif
-- Mengembangkan mini project
-- Melakukan review pola soal
+* Mengerjakan latihan intensif
+* Mengembangkan mini project
+* Melakukan review pola soal
 
-Tujuan akhir:
-Mahasiswa mampu mengimplementasikan struktur data dan algoritma secara mandiri untuk menyelesaikan masalah nyata.
+**Tujuan akhir:**
+Mahasiswa mampu mengimplementasikan struktur data dan algoritma secara mandiri untuk menyelesaikan permasalahan nyata.
 
 ---
 
-## Kesimpulan
+### 📌 Kesimpulan
 
-Roadmap ini menekankan bahwa:
+Roadmap ini menekankan alur pembelajaran:
 
-> Pemahaman konsep → Implementasi → Analisis → Optimasi
+> **Pemahaman Konsep → Implementasi → Analisis → Optimasi**
+
+Dengan pendekatan ini, mahasiswa tidak hanya bisa menulis kode, tetapi juga memahami alasan pemilihan solusi.
+
